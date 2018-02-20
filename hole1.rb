@@ -5,4 +5,4 @@ def sum
   puts "#{@a}, #{sum}"
 end 
 sum
-#25
+#23
